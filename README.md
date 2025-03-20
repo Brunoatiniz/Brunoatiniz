@@ -16,11 +16,10 @@ Sinta-se à vontade para explorar o conteúdo e entrar em contato para eventuais
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Brunoatiniz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Brunoatiniz&show_icons=true&theme=dark&include_all_commits=false&locale=pt-br" 
   />
 
 </p>
-
 
 
 <h3 align="left">Conecte-se comigo:</h3>
